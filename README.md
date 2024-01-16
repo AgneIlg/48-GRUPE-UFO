@@ -10,7 +10,7 @@ Lorem ipsum, **dolor sit amet consectetur** adipisicing elit. Qui animi magni es
 
 > Text that is a quote
 
-> Text that is a quote> 
+> Text that is a quote
 
 > Text that is a quote
 ### Trečio lygio antraštė
